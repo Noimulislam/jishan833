@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Noimul Islam Jishan
-**A passionate Software Engineer || Graphics Designer || Academic Project Management
+**A passionate Software Engineer || Graphics Designer || Academic Project Management || Python Django Developer | Machine Learning 
 
 Email Me 👉 ✉️ **ncnoimul1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
