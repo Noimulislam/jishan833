@@ -1,4 +1,4 @@
-Hi <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon"></h2>, I'm Noimul Islam Jishan
+Hi <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon">, I'm Noimul Islam Jishan</h2>
 **A passionate Software Engineer || Graphics Designer || Academic Project Management || Python Django Developer | Machine Learning 
 
 Email Me 👉 ✉️ **ncnoimul1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
